@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Project-Web-2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/sttnf.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Website 2</h3>
