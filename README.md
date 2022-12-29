@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Web 2(https://example.com)
+[![Project Web 2](https://example.com)
 
 Project Vehicle rent system. Membuat sebuah sistem peminjaman kendaraan dalam bentuk website tanpa database namun interaktif dengan menggunakan HTML, CSS, JavaScript dan menggunakan beberapa library serta framework online.
 
