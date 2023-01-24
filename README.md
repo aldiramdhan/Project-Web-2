@@ -83,7 +83,7 @@ Slide PPT: [SLIDE PROJECT WEB 2](https://docs.google.com/presentation/d/1p3BgFY7
 
 ### Built With
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,github,jquery,bootstrap,sass,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,github,jquery,bootstrap,sass,ts&perline=5)](https://skillicons.dev)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
