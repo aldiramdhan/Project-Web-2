@@ -32,6 +32,7 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Project-Web-2">
     <img src="images/sttnf.jpeg" alt="Logo" width="80" height="80">
+    <img src="peminjaman_kendaraan/assets/images/logo/vr-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Website 2</h3>
@@ -61,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Web 2]<img src="images/web.png" alt="Logo" width="300" height="100">
+<img src="images/web.png" alt="Logo" width="1075px" height="400px" style="tex-align:center">
 
 Project Vehicle rent system. Membuat sebuah sistem peminjaman kendaraan dalam bentuk website tanpa database namun interaktif dengan menggunakan HTML, CSS, JavaScript dan menggunakan beberapa library serta framework online.
 
@@ -80,10 +81,7 @@ kami tidak bisa jika hanya sendirian dalam membuat itu semua. Maka dari itu, tia
 
 ### Built With
 
-Untuk membuat sebuah sistem tersebut tentunya tidak mungkin jika tidak menggunakan library atau framework yang telah ada. Maka dari itu kami mengambil framework/library diantaranya:
-
-* AdminLTE
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,github,jquery,bootstrap)](https://skillicons.dev)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,7 +93,7 @@ Untuk membuat sebuah sistem tersebut tentunya tidak mungkin jika tidak menggunak
 
 Muhamad Aldi Ramdani - [@aldiramdhanl](https://instagram.com/aldiramdhanl) - ramdanialdi12r@gmail.com
 
-Project Link: [https://github.com/aldiramdhan/Project-Web-2](https://github.com/aldiramdhan/Project-Web-2)
+Project Link: [kreasi.nurulfikri.ac.id/muha22170si/Project-Web-2](https://kreasi.nurulfikri.ac.id/muha22170si/Project-Web-2/peminjaman_kendaraan/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
