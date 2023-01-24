@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Register - VehicleRent</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css" />
+    <link rel="stylesheet" href="css/animate.css" />
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.min.css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" />
+
+    <link rel="stylesheet" href="css/aos.css" />
+
+    <link rel="stylesheet" href="css/ionicons.min.css" />
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css" />
+    <link rel="stylesheet" href="css/jquery.timepicker.css" />
+
+    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/icomoon.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="assets/css/main/app.css" />
+
+    <link rel="stylesheet" href="css/auth-login.css" />
+    <link
+      rel="shortcut icon"
+      href="assets/images/logo/vr-logo.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <div id="auth">
+      <div class="row h-100">
+        <div class="col-lg-5 col-12">
+          <div id="auth-left">
+            <div class="auth-logo">
+              <a href="index.html"
+                ><img src="images/vehicle.jpg" alt="Logo"
+              /></a>
+            </div>
+            <h1 class="auth-title">Sign-Up</h1>
+            <p class="auth-subtitle mb-5">Daftar untuk memudahkan anda!</p>
+
+            <form id="singup">
+              <div class="form-group position-relative has-icon-left mb-4">
+                <input type="email" class="form-control form-control-xl" placeholder="Email" required>
+                <div class="form-control-icon">
+                    <i class="bi bi-envelope"></i>
+                </div>
+            </div>
+              <div class="form-group position-relative has-icon-left mb-4">
+                  <input type="text" class="form-control form-control-xl" placeholder="Username" id="username" required>
+                  <div class="form-control-icon">
+                      <i class="bi bi-person"></i>
+                  </div>
+              </div>
+              <div class="form-group position-relative has-icon-left mb-4">
+                  <input type="password" class="form-control form-control-xl" placeholder="Password" id="password" required>
+                  <div class="form-control-icon">
+                      <i class="bi bi-shield-lock"></i>
+                  </div>
+              </div>
+              <div class="form-group position-relative has-icon-left mb-4">
+                <input type="password" class="form-control form-control-xl" placeholder="Confirm Password" required>
+                <div class="form-control-icon">
+                    <i class="bi bi-shield-lock"></i>
+                </div>
+            </div>
+              <a  id="signup" class="btn btn-primary btn-block btn-lg shadow-lg mt-5">Sign-Up</a>
+          </form>
+            <div class="text-center mt-5 text-lg fs-4">
+              <p class="text-gray-600">
+                Sudah memiliki akun?
+                <a href="login.html" class="font-bold">Log-in</a>.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7 d-none d-lg-block">
+          <div id="auth-right"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- loader -->
+    <div id="ftco-loader" class="show fullscreen">
+      <svg class="circular" width="48px" height="48px">
+        <circle
+          class="path-bg"
+          cx="24"
+          cy="24"
+          r="22"
+          fill="none"
+          stroke-width="4"
+          stroke="#eeeeee"
+        />
+        <circle
+          class="path"
+          cx="24"
+          cy="24"
+          r="22"
+          fill="none"
+          stroke-width="4"
+          stroke-miterlimit="10"
+          stroke="#F96D00"
+        />
+      </svg>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="js/jquery.timepicker.min.js"></script>
+    <script src="js/scrollax.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+    <script src="assets/js/app.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="path/to/sweetalert.min.js"></script>
+    <script>
+        const singup = document.querySelector('#signup');
+        singup.addEventListener('click', function() {
+        Swal.fire({
+            title: 'Maafin aku:(',
+            text: "Data registrasi kamu belum terdaftar, aku kasih password mau ya?",
+            iconHtml: '<img src="https://media.tenor.com/SFy5Za0DyMEAAAAi/erm-fingers.gif" width="150px">',
+            customClass: {
+              icon: 'no-border'
+            },
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Mau!',
+            cancelButtonText: 'Nggak!'
+        }).then((result) => {
+              if (result.isConfirmed) {
+                  Swal.fire({
+                      title: 'Nih passwordnya!',
+                      text: 'Username: admin, Password: admin',
+                      icon: 'info',
+                      confirmButtonText: 'Makasih kak'
+                  }).then((result) => {
+                      if (result.isConfirmed) {
+                          window.location.href = "login.html";
+                      }   
+                  })
+              }
+          })
+
+      })
+    
+    </script>
+  </body>
+</html>
