@@ -73,6 +73,7 @@ Apa saja yang dibuat:
 
 Dan dari ketiga tugas utama kami, dari masing masing pointnya tentu akan bercabang dalam pembuatan sistem yang terintegrasi dan terstruktur. Tentunya
 kami tidak bisa jika hanya sendirian dalam membuat itu semua. Maka dari itu, tiap dari kami memiliki tugasnya masing masing dalam membuat sebuah detail dan yang lainnya.
+Slide PPT: [SLIDE PROJECT WEB 2](https://docs.google.com/presentation/d/1p3BgFY7h5RzmrN8_TIyIfAidhi6ybMUCpIukzbiUq8Q/edit?usp=sharing)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
