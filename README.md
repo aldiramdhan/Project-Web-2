@@ -81,7 +81,7 @@ kami tidak bisa jika hanya sendirian dalam membuat itu semua. Maka dari itu, tia
 
 ### Built With
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,github,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vue,github,jquery,bootstrap,sass,ts)](https://skillicons.dev)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
