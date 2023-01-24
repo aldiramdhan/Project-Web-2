@@ -64,7 +64,7 @@
 
 <img src="images/web.png" alt="Logo" width="1075px" height="400px" style="tex-align:center">
 
-Project Vehicle rent system. Membuat sebuah sistem peminjaman kendaraan dalam bentuk website tanpa database namun interaktif dengan menggunakan HTML, CSS, JavaScript dan menggunakan beberapa library serta framework online.
+Project Vehicle rent system. Membuat sebuah sistem peminjaman kendaraan dalam bentuk website tanpa database namun interaktif dengan menggunakan HTML, CSS, JavaScript dan menggunakan beberapa library serta framework yang tersedia di internet.
 
 Apa saja yang dibuat:
 * Landing Page website lengkap dengan detail dari tiap produk
