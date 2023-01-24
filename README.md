@@ -72,7 +72,8 @@ Apa saja yang dibuat:
 * Admin dashboard back-end page untuk mengelola produk
 
 Dan dari ketiga tugas utama kami, dari masing masing pointnya tentu akan bercabang dalam pembuatan sistem yang terintegrasi dan terstruktur. Tentunya
-kami tidak bisa jika hanya sendirian dalam membuat itu semua. Maka dari itu, tiap dari kami memiliki tugasnya masing masing dalam membuat sebuah detail dan yang lainnya.
+kami tidak bisa jika hanya sendirian dalam membuat itu semua. Maka dari itu, tiap dari kami memiliki tugasnya masing masing dalam membuat sebuah detail dan yang lainnya. <br>
+<br>
 Slide PPT: [SLIDE PROJECT WEB 2](https://docs.google.com/presentation/d/1p3BgFY7h5RzmrN8_TIyIfAidhi6ybMUCpIukzbiUq8Q/edit?usp=sharing)
 
 
